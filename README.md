@@ -24,7 +24,8 @@ I will provide help but very minimal.
 Telegram - [@gaveaway](https://t.me/gaveaway)
 <br />
 Discord - [@shareholders](https://discord.com/users/192475130134265856)
-
+<br />
+Dm for working xal script
 
 ## Example of Fingerprint
 ```json
